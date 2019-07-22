@@ -1,0 +1,10 @@
+body,table,input,select,td {font-size:9pt;line-height:140%} 
+a:link       { color: #0033CC; text-decoration: none }
+a:visited    { color: #0033CC; text-decoration: none }
+a:active     { color: #FF0000; text-decoration: none }
+a:hover      { color: #000000; text-decoration: underline }
+a.createrhtmlpath:link    { FONT-WEIGHT: bold; color: #FFFFFF; text-decoration: none }
+a.createrhtmlpath:visited { FONT-WEIGHT: bold; color: #FFFFFF; text-decoration: none }
+a.createrhtmlpath:hover   { FONT-WEIGHT: bold; color: #DFDFDF; text-decoration: underline}
+.border { border-color: #555555; border-style:solid; border-top-width:1px; border-right-width:1px; border-bottom-width:1px; border-left-width:1px}
+.menuitem { color: #FFFFFF; }
