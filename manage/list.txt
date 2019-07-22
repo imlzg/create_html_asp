@@ -1,0 +1,57 @@
+GENERAL 常规管理
+g1	config 基本设置
+
+CATA 目录管理
+c1	cata.manage 目录管理
+c2	cata_add 目录添加
+c3	cata_create 目录生成
+c4	cata_create_all 目录生成（总）
+c5	cata_create_js 目录内容JS生成
+c6	cata_create_js_all 目录JS生成（总）
+c7	cata_create_js_cata 目录JS生成            子栏目JS、同级栏目JS、目录路径
+c8	cata_create_js_nav 目录导航JS生成 
+c9	cata_edit 目录编辑
+c10	cata_move 目录移动
+c11	cata_save 目录保存
+
+INFO INFO管理
+i1	info.manage INFO管理
+i2	info_add INFO添加
+i3	info_c
+i4	info_create
+i5	info_create_all
+i6	info_d
+i7	info_delete
+i8	info_delete_all
+i9	info_edit
+i10	info_m
+i11	info_move
+i12	info_move_all
+i13	info_save
+
+MODEL 模版管理
+m1	model.manage
+m2	model_add
+m3	model_edit
+m4	model_save
+
+SOFT SOFT管理
+s1	soft.manage
+s2	soft_add
+s3	soft_c
+s4	soft_create
+s5	soft_create_all
+s6	soft_d
+s7	soft_delete
+s8	soft_delete_all
+s9	soft_edit
+s10	soft_m
+s11	soft_move
+s12	soft_move_all
+s13	soft_save
+
+USER 用户管理
+u1	user.manage
+u2	user_add
+u3	user_edit
+u4	user_save
